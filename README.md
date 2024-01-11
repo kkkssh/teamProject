@@ -17,14 +17,20 @@ GROOVY는 관심사 기반의 온오프 커뮤니티 플랫폼 서비스 프로
 
 ## 3. 기술스택
 ### IDE  <br>
-Intellj, Dbeaver <br>
+IntelliJ <br>
+### Other Tools <br>
+DBeaver  <br>
+Git   <br>
 ### Language <br>
-JAVA , JavaScript, SQL <br>
+JAVA  <br>
+SQL <br>
 ### DB <br>
 Oracle  <br>
 ### Web FE  <br>
 HTML  <br>
 CSS  <br>
+JavaScript <br>
+Thymeleaf  <br>
 BootStrap  <br>
 ### API <br>
 MyBatis  <br>
@@ -32,8 +38,6 @@ Lombok  <br>
 Spring boots  <br>
 STOMP  <br>
 Web Socket
-
-
 
 <br><br>
 ## 4. GROOVY 프로젝트 ERD 
